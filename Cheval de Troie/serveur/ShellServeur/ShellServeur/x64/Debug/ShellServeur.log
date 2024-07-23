@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Fanomezana\Documents\UQAC\Session Hiver 2023\Reseau ordinateur\TP\projet\3.0\serveur\ShellServeur\ShellServeur\main.cpp(109,47): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Fanomezana\Documents\UQAC\Session Hiver 2023\Reseau ordinateur\TP\projet\3.0\serveur\ShellServeur\ShellServeur\main.cpp(132,57): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Fanomezana\Documents\UQAC\Session Hiver 2023\Reseau ordinateur\TP\projet\3.0\serveur\ShellServeur\ShellServeur\main.cpp(146,14): warning C4244: 'initialisation' : conversion de 'std::streamoff' en 'int', perte possible de données
+  ShellServeur.vcxproj -> C:\Users\Fanomezana\Documents\UQAC\Session Hiver 2023\Reseau ordinateur\TP\projet\3.0\serveur\ShellServeur\x64\Debug\ShellServeur.exe

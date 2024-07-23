@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Fanomezana\Documents\UQAC\Session Hiver 2023\Reseau ordinateur\TP\projet\3.0\client\ShellClient\ShellClient\main.cpp(176,13): warning C4244: 'initialisation' : conversion de 'std::streamoff' en 'int', perte possible de données
+C:\Users\Fanomezana\Documents\UQAC\Session Hiver 2023\Reseau ordinateur\TP\projet\3.0\client\ShellClient\ShellClient\main.cpp(230,46): warning C4267: 'argument' : conversion de 'size_t' en 'int', perte possible de données
+  ShellClient.vcxproj -> C:\Users\Fanomezana\Documents\UQAC\Session Hiver 2023\Reseau ordinateur\TP\projet\3.0\client\ShellClient\x64\Debug\ShellClient.exe
